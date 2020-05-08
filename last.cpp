@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib> // для system
+#include <cstdlib> // Г¤Г«Гї system
 using namespace std;
 
 int main() 
@@ -7,6 +7,6 @@ int main()
    int n;
    cout << "Hello world!" << endl;
    cin>>n;
-   cout<< n+3 <<endl;
+   cout<< n+2 <<endl;
     return 0; 
 }

@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib> // для system
+#include <cstdlib> // Г¤Г«Гї system
 using namespace std;
 
 int main() 

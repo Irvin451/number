@@ -7,6 +7,6 @@ int main()
    int n;
    cout << "Hello world!" << endl;
    cin>>n;
-   cout<< n+7 <<endl;
+   cout<< n+3 <<endl;
     return 0; 
 }
